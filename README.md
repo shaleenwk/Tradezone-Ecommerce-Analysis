@@ -8,9 +8,8 @@ End-to-end SQL data analysis of TradeZone, a Nigerian e-commerce platform experi
  
 | File | Description |
 |------|-------------|
-| `tradezone_project_postgresql.sql` | Part A — Full data cleaning script (PostgreSQL) |
-| `tradezone_project_t2.sql` | Part A — Data cleaning script (MySQL version) |
-| `analysis_queries_postgresql.sql` | Part B — 8 business analysis queries (PostgreSQL) |
-| `tradezone_analyst_memo.docx` | Part C — Analyst memo addressed to Head of Growth and Head of Seller Operations |
+| `data_cleaning_script.sql` | Part A — Full data cleaning script (PostgreSQL) |
+| `analysis_queries.sql` | Part B — 8 business analysis queries (PostgreSQL) |
+| `analyst_memo.pdf` | Part C — Analyst memo addressed to Head of Growth and Head of Seller Operations |
  
 ---
