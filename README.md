@@ -19,3 +19,4 @@ TradeZone operates across five major Nigerian cities; Lagos, Abuja, Port Harcour
 - Dropping customer retention rates
 - Sellers dragging down overall platform ratings
 This project investigates each concern using transaction, customer, seller, product, payment and review data, and translates the findings into actionable business recommendations.
+---
