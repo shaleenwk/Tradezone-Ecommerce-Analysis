@@ -14,7 +14,7 @@ End-to-end SQL data analysis of TradeZone, a Nigerian e-commerce platform experi
  
 ---
 ## Business Context
-TradeZone operates across five major Nigerian cities — Lagos, Abuja, Port Harcourt, Kano and Ibadan. Leadership identified three concerns heading into 2025:
+TradeZone operates across five major Nigerian cities; Lagos, Abuja, Port Harcourt, Kano and Ibadan. Leadership identified three concerns heading into 2025:
 - Strong top-line growth but unclear sustainability
 - Dropping customer retention rates
 - Sellers dragging down overall platform ratings
