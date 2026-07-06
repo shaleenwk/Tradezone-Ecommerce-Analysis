@@ -90,12 +90,12 @@ A structured business memo addressed to the **Head of Growth** and **Head of Sel
 4. Data quality decisions and their potential impact on analysis
 5. One unanswerable business question and the data needed to address it
    
-See `tradezone_analyst_memo.docx` for the full document.
+See `analyst_memo.pdf` for the full document.
  
 ---
  
 ## Key Takeaways
-- TradeZone grew 400%+ in revenue across 2024 but growth is concentrated and fragile
+- TradeZone grew 400%+ in revenue across 2024, but growth is concentrated and fragile
 - New customer activation is the most urgent problem — no state converts more than 50% of sign-ups
 - Seller quality, not speed, is what drives customer satisfaction
 - Electronics dominates both product revenue and the top 10 rankings
