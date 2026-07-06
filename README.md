@@ -89,6 +89,7 @@ A structured business memo addressed to the **Head of Growth** and **Head of Sel
 3. Two data-backed recommendations with responsible owners and 60–90 day expected outcomes
 4. Data quality decisions and their potential impact on analysis
 5. One unanswerable business question and the data needed to address it
+   
 See `tradezone_analyst_memo.docx` for the full document.
  
 ---
