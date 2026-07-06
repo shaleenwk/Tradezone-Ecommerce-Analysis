@@ -59,7 +59,7 @@ The dataset spans **7 tables**: `customers`, `sellers`, `products`, `orders`, `o
 ### Quarterly Revenue Trends
 | Quarter | Revenue 2023 | Revenue 2024 | Growth % |
 |---------|-------------|-------------|----------|
-| Q1 | ₦7.04M | ₦115.8M | 1,544.45% ⭐ |
+| Q1 | ₦7.04M | ₦115.8M | 1,544.45% |
 | Q2 | ₦18.27M | ₦144.1M | 688.62% |
 | Q3 | ₦51.2M | ₦227.3M | 343.72% |
 | Q4 | ₦72.0M | ₦350.8M | 387.33% |
