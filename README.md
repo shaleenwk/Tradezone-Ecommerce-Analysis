@@ -77,7 +77,7 @@ The dataset spans **7 tables**: `customers`, `sellers`, `products`, `orders`, `o
  
 ### Other Findings
 - **Product Performance:** All top 10 revenue-generating products were Electronics, led by the HP Pavilion Laptop at ₦23.8M
-- **Seller Fulfilment:** The fastest seller (RunFast NG, 91.2 hrs) holds only a 3.25 rating — speed does not correlate with customer satisfaction
+- **Seller Fulfilment:** The fastest seller (RunFast NG, 91.2 hrs) holds only a 3.25 rating, which means speed does not correlate with customer satisfaction
 - **Payment Methods:** Card dominates in Lagos, FCT and Rivers; Cash on Delivery leads in Oyo and Kano
 - **Seller Bonus:** 10 sellers qualified with 4.0+ ratings and 10+ completed orders; SportsCentral NG led with ₦15M revenue
 ---
