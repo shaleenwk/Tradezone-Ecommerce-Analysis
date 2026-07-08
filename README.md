@@ -104,4 +104,4 @@ See `analyst_memo.pdf` for the full document.
 ---
 
 ### Author
-Shaleen - Data Science & Analytics
+Shaleen K - Data Science & Analytics
