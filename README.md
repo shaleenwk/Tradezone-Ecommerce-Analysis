@@ -25,7 +25,7 @@ This project investigates each concern using transaction, customer, seller, prod
 ## Database Schema
 The dataset spans **7 tables**: `customers`, `sellers`, `products`, `orders`, `order_items`, `payments` and `reviews`.
 
-## Part A — Data Cleaning Summary
+## Part A - Data Cleaning Summary
 ### Missing Values
 | Table | Issue | Decision |
 |-------|-------|----------|
@@ -43,7 +43,7 @@ The dataset spans **7 tables**: `customers`, `sellers`, `products`, `orders`, `o
 - Deleted review ratings outside the valid 1–5 range
 
 
-## Part B — Key Results
+## Part B - Key Results
  
 ### Customer Acquisition & 30-Day Conversion
 | State | New Customers | Converted in 30 Days | Conversion Rate |
@@ -82,7 +82,7 @@ The dataset spans **7 tables**: `customers`, `sellers`, `products`, `orders`, `o
 - **Seller Bonus:** 10 sellers qualified with 4.0+ ratings and 10+ completed orders; SportsCentral NG led with ₦15M revenue
 ---
  
-## Part C — Analyst Memo
+## Part C - Analyst Memo
 A structured business memo addressed to the **Head of Growth** and **Head of Seller Operations** covering:
 1. Executive summary of platform performance
 2. Three key findings with specific figures and business interpretation
@@ -100,3 +100,7 @@ See `analyst_memo.pdf` for the full document.
 - Seller quality, not speed, is what drives customer satisfaction
 - Electronics dominates both product revenue and the top 10 rankings
 - Oyo and Kano show the weakest conversion rates and prefer Cash on Delivery over card payments
+
+
+### Author
+Shaleen - Data Science & Analytics
