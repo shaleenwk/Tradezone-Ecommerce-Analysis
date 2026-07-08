@@ -101,6 +101,7 @@ See `analyst_memo.pdf` for the full document.
 - Electronics dominates both product revenue and the top 10 rankings
 - Oyo and Kano show the weakest conversion rates and prefer Cash on Delivery over card payments
 
+---
 
 ### Author
 Shaleen - Data Science & Analytics
